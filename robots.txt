@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jatahyeivi.ruidazeng.com/sitemap.xml
